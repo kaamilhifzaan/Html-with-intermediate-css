@@ -1,5 +1,5 @@
 .head{
-    background-color:#234e9f;
+    background-color:#87adf3;
     text-align:center;
     color:aliceblue;
     height:200px;
@@ -37,7 +37,7 @@ h1{
 #left{
     flex:1 1 300px;
     min-width:260px;
-    background-color:#87adf3;
+    background-color:aliceblue;
     border-radius:8px;
     padding:16px;
 }
@@ -45,7 +45,7 @@ h1{
     flex:2 1 520px;
     min-width:300px;
     padding:16px;
-    background-color:#87adf3;
+    background-color:aliceblue;
     border-radius:8px;
 }
 @media (max-width:720px){
@@ -65,4 +65,5 @@ h5{
     color:rgb(56, 53, 53);
 
 }
+
 
